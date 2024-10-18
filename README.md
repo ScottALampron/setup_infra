@@ -5,6 +5,7 @@ This resource management plan outlines the structure and components of the my_in
 
 ---
 
+```
 ## Project Structure
 /var/
 ├── log/
@@ -58,7 +59,7 @@ This resource management plan outlines the structure and components of the my_in
             ├── backup.sh
             ├── sync.sh
             └── cronjobs.sh
-
+```
 ---
 
 ## Services Overview
