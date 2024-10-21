@@ -4,9 +4,10 @@
 This resource management plan outlines the structure and components of the my_infrastructure project. It details the services, configurations, and storage locations for logs, databases, and other resources.
 
 ---
+## Project Structure
 
 ```
-## Project Structure
+
 /var/
 ├── log/
 │   └── my_infrastructure/
